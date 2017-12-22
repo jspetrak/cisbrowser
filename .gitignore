@@ -1,0 +1,6 @@
+.idea/*
+project/*
+target/*
+temp/*
+
+.DS_Store
